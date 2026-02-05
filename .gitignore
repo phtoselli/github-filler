@@ -3,3 +3,4 @@ dist
 .context
 *.log
 tmp-repos/
+.DS_Store
